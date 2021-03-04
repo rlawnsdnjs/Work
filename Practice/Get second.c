@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define SECOND_PER_MINUTE 60
+#define SECOND_PER_MINUTE 60  // 상수값을 60으로 지정해준다.
 
 int main()
 {
