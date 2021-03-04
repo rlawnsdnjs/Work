@@ -8,6 +8,6 @@ int main(void)
 	printf("%c\n", y);
 	char z = 'B';
 	printf("%c\n", z);
-	printf("%d", z); // ASCII Code of B is 66.
+	printf("%d", z); // %d로 쓰니까 B의 아스키 코드인 66이 출력된다.
 	return 0;
 }
