@@ -2,7 +2,7 @@
 
 int main()
 {
-	int score = 85;
+	int score = 85;  // 학생의 점수를 의미합니다.
 	if(score >= 90)
 	{
 		printf("Your score is A.",score);
