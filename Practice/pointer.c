@@ -2,9 +2,9 @@
 
 int main()
 {
-	int i = 10;
+	int i = 10; 
 	int *p;
-	p = &i;
+	p = &i;  // i = *p, p = &i
 	
 	printf("i = %d\n", i);
 	
